@@ -33,6 +33,7 @@ protected slots:
     on_deleteButton_clicked();
     on_editButton_clicked();
     on_StringFT_picked();
+    on_StringST_picked();
 };
 
 #endif // CRUDMW_H
