@@ -1,5 +1,5 @@
 #include "CRUDmw.h"
-#include "ui_mainwindow.h"
+#include "ui_CRUDmw.h"
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
